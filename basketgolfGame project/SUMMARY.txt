@@ -1,0 +1,7 @@
+Hi! I'm so glad to see you here!
+
+This directory is demonstration my experience in game development together with my friend (Ilya Dementeev: https://github.com/elyasn0).
+The «basketgolfGame» project is not ready, but there is small sketch of my 3D models!
+They will even better in the future! 
+
+Thank You for watching ;)
