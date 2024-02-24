@@ -82,3 +82,42 @@ If I really dedicated my life to 3D modeling, I would want to model people, the 
 
 ## [Game Photo mode](https://github.com/msgrigorovich/Art/tree/main/Photo%20mode)
 
+Photo mode in games was a pleasant discovery. I admire games, their open world, detail and atmosphere. Such great achievements require incredible power, and incredible pleasure to capture it. I added only some of my photos to Github, but I’ll pin my favorite ones here:
+
+<p align = "center">
+<a
+href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/TLOU/IMG_6398.JPG">
+<img width="185" height="112" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/TLOU/IMG_6398.JPG?raw=true">
+</a>
+<a
+href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/TLOU/IMG_6406.JPG">
+<img width="185" height="112" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/TLOU/IMG_6406.JPG?raw=true">
+</a>
+<a
+href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/TLOU/IMG_6416.JPG">
+<img width="185" height="112" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/TLOU/IMG_6416.JPG?raw=true">
+</a>
+<a
+href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_6421.JPG">
+<img width="185" height="112" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_6421.JPG?raw=true">
+</a>
+</p>
+
+<p align = "center">
+<a
+href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_6424.JPG">
+<img width="250" height="150" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_6424.JPG?raw=true">
+</a>
+<a
+href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_6426.JPG">
+<img width="250" height="150" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_6426.JPG?raw=true">
+</a>
+<a
+href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_7527.JPG">
+<img width="250" height="150" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_7527.JPG?raw=true">
+</a>
+<a
+href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/Spider%20Man/IMG_6940.JPG">
+<img width="250" height="150" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/Spider%20Man/IMG_6940.JPG?raw=true">
+</a>
+</p>
