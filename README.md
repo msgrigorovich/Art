@@ -106,18 +106,18 @@ href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey
 <p align = "center">
 <a
 href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_6424.JPG">
-<img width="250" height="150" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_6424.JPG?raw=true">
+<img width="185" height="112" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_6424.JPG?raw=true">
 </a>
 <a
 href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_6426.JPG">
-<img width="250" height="150" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_6426.JPG?raw=true">
+<img width="185" height="112" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_6426.JPG?raw=true">
 </a>
 <a
 href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_7527.JPG">
-<img width="250" height="150" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_7527.JPG?raw=true">
+<img width="185" height="112" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/AC%20Odyssey/IMG_7527.JPG?raw=true">
 </a>
 <a
 href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/Spider%20Man/IMG_6940.JPG">
-<img width="250" height="150" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/Spider%20Man/IMG_6940.JPG?raw=true">
+<img width="185" height="112" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/Spider%20Man/IMG_6940.JPG?raw=true">
 </a>
 </p>
