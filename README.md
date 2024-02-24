@@ -80,7 +80,7 @@ href = "https://github.com/msgrigorovich/Art/blob/main/3D%20modeling/basketgolfG
 If I really dedicated my life to 3D modeling, I would want to model people, the anatomy of their body and face.
 
 
-## [Game Photo mode](https://github.com/msgrigorovich/Art/tree/main/Photo%20mode)
+## [Game photo mode](https://github.com/msgrigorovich/Art/tree/main/Photo%20mode)
 
 Photo mode in games was a pleasant discovery. I admire games, their open world, detail and atmosphere. Such great achievements require incredible power, and incredible pleasure to capture it. I added only some of my photos to Github, but I’ll pin my favorite ones here:
 
@@ -121,3 +121,21 @@ href = "https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/Spider%20Man
 <img width="185" height="112" src="https://github.com/msgrigorovich/Art/blob/main/Photo%20mode/Spider%20Man/IMG_6940.JPG?raw=true">
 </a>
 </p>
+
+It may be a little gloomy, but where can you take photos like this, if not in games?
+
+___
+
+<p
+    align = "center">
+    I hope this material was informative and interesting. I was very happy to share my skills with you!
+</p>
+<p
+    align = "center">
+    <b>Best regards, Diana Grigorovich!</b>
+</p>
+<h1
+    align = "center"
+    style = "color:FireBrick">
+    Thanks for your attention!
+</h1>
