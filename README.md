@@ -38,4 +38,11 @@ href = "https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/phot
 </a>
 </p>
 
+In the world of technology it seems like it doesn't matter anymore, but classical art will remain in my heart forever!
+
+>_P.S.: By the way, one of the portraits shows my former Team Lead QA ([Daria Ivanova](https://github.com/Numilou)) Many people don’t even imagine how strange it is to stare at a preson’s photo for about 30 hours in order to draw a portrait._
+
+Unfortunately, a considerable part of my portraits were either lost or given to the appropriate people for the holidays. Therefore, the quality of the photographs leaves much to be desired.
+
+## [3D modelling](https://github.com/msgrigorovich/Art/tree/main/3D%20modeling)
 
