@@ -40,9 +40,24 @@ href = "https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/phot
 
 In the world of technology it seems like it doesn't matter anymore, but classical art will remain in my heart forever!
 
->_P.S.: By the way, one of the portraits shows my former Team Lead QA ([Daria Ivanova](https://github.com/Numilou)) Many people don’t even imagine how strange it is to stare at a preson’s photo for about 30 hours in order to draw a portrait._
+>_P.S.: By the way, one of the portraits shows my former Team Lead QA ([Daria Ivanova](https://github.com/Numilou)). Many people don’t even imagine how strange it is to stare at a preson’s photo for about 30 hours in order to draw a portrait._
 
 Unfortunately, a considerable part of my portraits were either lost or given to the appropriate people for the holidays. Therefore, the quality of the photographs leaves much to be desired.
 
 ## [3D modelling](https://github.com/msgrigorovich/Art/tree/main/3D%20modeling)
 
+For a while I thought that I would devote my whole life to 3D modeling. If in graphite portraits I came across the idea of capturing a person who inspires me, then in 3D modeling I can do the same, then use an additional dimension for this. This is so impressive!
+
+As a start in 3D modeling, I graduated from [Knover School](https://github.com/msgrigorovich/Art/tree/main/3D%20modeling/Knower%20School). I then used my skills for my own [indie development](https://github.com/msgrigorovich/Art/tree/main/3D%20modeling/basketgolfGame%20project). Several of my works:
+
+
+<p align = "center">
+<a
+href = "">
+<img width="225" height="300" src="">
+</a>
+<a
+href = "">
+<img width="225" height="300" src="">
+</a>
+</p>
