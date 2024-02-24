@@ -53,11 +53,22 @@ As a start in 3D modeling, I graduated from [Knover School](https://github.com/m
 
 <p align = "center">
 <a
-href = "">
-<img width="225" height="300" src="">
+href = "https://github.com/msgrigorovich/Art/blob/main/3D%20modeling/basketgolfGame%20project/Models/balls/default_basket.blend">
+<img width="300" height="225" src="https://github.com/msgrigorovich/Art/blob/main/README_PICTURES/BasketballDefault.jpg?raw=true">
 </a>
 <a
-href = "">
-<img width="225" height="300" src="">
+href = "https://github.com/msgrigorovich/Art/blob/main/3D%20modeling/basketgolfGame%20project/Models/balls/default_golf.blend">
+<img width="300" height="225" src="https://github.com/msgrigorovich/Art/blob/main/README_PICTURES/GolfDefault.jpg?raw=true">
+</a>
+</p>
+
+<p align = "center">
+<a
+href = "https://github.com/msgrigorovich/Art/blob/main/3D%20modeling/basketgolfGame%20project/Models/balls/football_4.blend">
+<img width="300" height="225" src="https://github.com/msgrigorovich/Art/blob/main/README_PICTURES/FotballWitcher.jpg?raw=true">
+</a>
+<a
+href = "https://github.com/msgrigorovich/Art/blob/main/3D%20modeling/basketgolfGame%20project/Models/balls/volleyball.blend">
+<img width="300" height="225" src="https://github.com/msgrigorovich/Art/blob/main/README_PICTURES/VolleyballDefault.jpg?raw=true">
 </a>
 </p>
