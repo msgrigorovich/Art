@@ -19,22 +19,22 @@ Of course, first of all I would like to show you some of my favorite graphite wo
 <p align = "center">
 <a
 href = "https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/photo%20jpg/Colton%20Haynes%20--%202018.jpg">
-<img width="250" height="375" src="https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/photo%20jpg/Colton%20Haynes%20--%202018.jpg?raw=true">
+<img width="225" height="300" src="https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/photo%20jpg/Colton%20Haynes%20--%202018.jpg?raw=true">
 </a>
 <a
 href = "https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/photo%20jpg/Albert%20Einstein%20--%202016.jpg">
-<img width="250" height="375" src="https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/photo%20jpg/Albert%20Einstein%20--%202016.jpg?raw=true">
+<img width="225" height="300" src="https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/photo%20jpg/Albert%20Einstein%20--%202016.jpg?raw=true">
 </a>
 </p>
 
 <p align = "center">
 <a
 href = "https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/photo%20jpg/Ivanova%20Daria%20--%202022.jpg">
-<img width="250" height="375" src="https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/photo%20jpg/Ivanova%20Daria%20--%202022.jpg?raw=true">
+<img width="225" height="300" src="https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/photo%20jpg/Ivanova%20Daria%20--%202022.jpg?raw=true">
 </a>
 <a
 href = "https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/photo%20jpg/Robert%20Pattinson%20--%202018.jpg">
-<img width="250" height="375" src="https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/photo%20jpg/Robert%20Pattinson%20--%202018.jpg?raw=true">
+<img width="225" height="300" src="https://github.com/msgrigorovich/Art/blob/main/Graphite%20Portraits/photo%20jpg/Robert%20Pattinson%20--%202018.jpg?raw=true">
 </a>
 </p>
 
