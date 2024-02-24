@@ -72,3 +72,13 @@ href = "https://github.com/msgrigorovich/Art/blob/main/3D%20modeling/basketgolfG
 <img width="370" height="225" src="https://github.com/msgrigorovich/Art/blob/main/README_PICTURES/VolleyballDefault.jpg?raw=true">
 </a>
 </p>
+
+<p align = "center">
+<i>You can download .blend-file if you click on the corresponding image</i>
+</p>
+
+If I really dedicated my life to 3D modeling, I would want to model people, the anatomy of their body and face.
+
+
+## [Game Photo mode](https://github.com/msgrigorovich/Art/tree/main/Photo%20mode)
+
